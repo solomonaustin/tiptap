@@ -1,5 +1,13 @@
 # @tiptap/extension-find-and-replace
 
+## 3.30.2
+
+### Patch Changes
+
+- Updated dependencies [3dffed5]
+  - @tiptap/core@3.30.2
+  - @tiptap/pm@3.30.2
+
 ## 3.30.1
 
 ### Patch Changes
